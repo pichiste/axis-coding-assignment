@@ -1,4 +1,4 @@
-# 3D User Directory
+# Axis Coding Assignment - 3D User Directory
 
 Coding assigment as part of my interview process at Axis Communications.
 
