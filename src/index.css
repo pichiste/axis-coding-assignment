@@ -1,0 +1,17 @@
+:root {
+  --var-color-text: #333333;
+  --var-color-text-light: #666666;
+  --var-color-background: #f4f1f1;
+  --var-color-brand-01: #fc3;
+  --var-color-brand-02: #d8cfc6;
+
+  --var-font-family:
+    system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: var(--var-color-background);
+  font-family: var(--var-font-family);
+  color: var(--var-color-text);
+}
